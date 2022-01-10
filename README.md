@@ -11,5 +11,5 @@
 5. Прописать `npm init`.
 6. Прописать `npm install`.
 7. Открыть файл **index.html**: клик правой кнопкой мыши на **index.html** и выбираем открыть в браузере.
-## Если установилась более старая версия NodePackageManager(npm)
+## Если установилась более старая версия NodePackageManager(npm) или NodeJS
 Лично я в таких ситуациях предпочитаю **_[nvm](https://habr.com/ru/company/timeweb/blog/541452/)_** и обновляю версию **NodeJS** и **npm** через него
