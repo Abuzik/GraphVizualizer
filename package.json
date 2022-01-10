@@ -1,0 +1,17 @@
+{
+  "name": "graphs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graph-theory-ford-fulkerson": "^1.0.0",
+    "tailwindcss": "^2.2.19",
+    "vis-network": "^9.1.0"
+  }
+}
